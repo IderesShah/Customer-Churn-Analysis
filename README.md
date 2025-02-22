@@ -1,4 +1,4 @@
-# Loyalty Trend Analysis
+# Loyalty Drain Analysis
 
 ## 📌 Project Overview
 This project analyzes customer churn to identify key factors influencing customer retention. It includes *Exploratory Data Analysis (EDA), data preprocessing, and visualizations* to help businesses reduce churn and improve customer satisfaction.
@@ -24,7 +24,7 @@ This project analyzes customer churn to identify key factors influencing custome
 
 ## 🚀 How to Use This Project
 ### *1. Clone the Repository*
-git clone https://github.com/IderesShah/Loyalty_Trend_Analysis
+git clone https://github.com/IderesShah/Loyalty-Drain-Analysis
 
 
 ### *2. Install Dependencies*
