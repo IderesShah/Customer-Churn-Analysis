@@ -24,13 +24,11 @@ This project analyzes customer churn to identify key factors influencing custome
 
 ## 🚀 How to Use This Project
 ### *1. Clone the Repository*
-bash
-git clone https://github.com/your-username/Customer-Churn-Analysis.git
+git clone https://github.com/IderesShah/Customer-Churn-Analysis.git
 cd Customer-Churn-Analysis
 
 
 ### *2. Install Dependencies*
-bash
 pip install -r requirements.txt
 
 
