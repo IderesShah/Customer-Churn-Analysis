@@ -4,7 +4,7 @@
 This project analyzes customer churn to identify key factors influencing customer retention. It includes *Exploratory Data Analysis (EDA), data preprocessing, and visualizations* to help businesses reduce churn and improve customer satisfaction.
 
 ## 📂 Dataset
-- *File:* Loyalty Analysis.csv
+- *File:* Loyalty Drain Analysis.csv
 - *Columns:* Customer attributes such as service subscriptions, internet usage, contract type, tenure, payment methods, and churn status.
 - *Target Variable:* Churn (Yes/No)
 
@@ -33,7 +33,7 @@ pip install -r requirements.txt
 
 ### *3. Run the Jupyter Notebook*
 bash
-jupyter notebook Loyalty Analysis.ipynb
+jupyter notebook Loyalty Drain Analysis.ipynb
 
 
 ## 📌 Future Improvements
